@@ -6,3 +6,6 @@ packages name (pip install <package_name>):
 - pandas
 - scikit-learn
 - xgboost
+
+## Beta version 
+Only detecting GPS failures.
